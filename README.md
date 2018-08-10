@@ -8,4 +8,4 @@
 * They've asked their business intelligence analysts to provide us a dataset of past employees and their status (still employed or already left).
 
 #### Output -
-![picture](snap.png)
+![picture](snap.PNG)
