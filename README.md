@@ -7,5 +7,7 @@
 * The HR department has hired us as data science consultants. They want to supplement their exit interviews with a more proactive approach.
 * They've asked their business intelligence analysts to provide us a dataset of past employees and their status (still employed or already left).
 
+It is a binary classification task, where given a set of features we need to predict whether the employee is likely to leave or not.
+
 #### Output -
 ![picture](snap.PNG)
